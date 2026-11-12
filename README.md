@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Mohanapriya0408/Mohanapriya0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Mohanapriya!
 
-Here are some ideas to get you started:
+🎓 B.Tech Information Technology Student
+🏫 St. Joseph's College of Engineering, Chennai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- I'm an aspiring AI Developer.
+- Interested in Artificial Intelligence and Data Science.
+- Learning C Programming.
+- Passionate about learning new technologies.
+- Interested in building real-world projects.
+
+## 💻 Technical Skills
+- C Programming
+- Artificial Intelligence
+- Data Science
+
+## 🎯 My Goals
+- Improve my programming skills.
+- Build innovative projects.
+- Become a successful IT professional.
+
+## 📫 Connect With Me
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mohanapriya-m-44a113439)
+
+---
+⭐ Thank you for visiting my profile!
+
